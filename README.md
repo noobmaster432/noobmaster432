@@ -16,7 +16,7 @@
 <!-- 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=noobmaster432&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
 
-## Things I use on a daily basis
+## Languages and Tools
 
 <p align="left">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
