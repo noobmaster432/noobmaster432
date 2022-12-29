@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gyanendra</h1>
 <h3 align="center">A passionate Full Stack developer and an open source contributer</h3>
 
+
+<img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" height="300px" align="right" />
+<br>
+
 - 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **React, Node Js**
@@ -12,6 +16,7 @@
     - **Discord : NoobMaster#6684**
 
 - ⚡ Fun fact **Yeah I could make you laugh sometimes :)**
+
 
 <!-- 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=noobmaster432&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
@@ -34,4 +39,3 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=2d79c7">
 
 </p>  
-
