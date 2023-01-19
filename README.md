@@ -17,9 +17,10 @@
 
 - ⚡ Fun fact **Yeah I could make you laugh sometimes :)**
 
-
 <!-- 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=noobmaster432&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&" alt="noobmaster432" /></p>
 
 ## Languages and Tools
 
