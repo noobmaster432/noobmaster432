@@ -10,10 +10,10 @@
 - 💬 Ask me about **React, Node Js, Next Js**
 
 - 📫 How to reach me 
-    - <a href="https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/"> **Linkedin** </a>
-    - <a href="mailto:mrgyan432@gmail.com"> **Email** </a>
-    - <a href="https://telegram.me/Noobmaster_432"> **Telegram** </a>
-    - <a href="https://discordapp.com/users/926492611794067516"> **Discord** </a>
+    - <a href="https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/" target="_blank"> **Linkedin** </a>
+    - <a href="mailto:mrgyan432@gmail.com" target="_blank"> **Email** </a>
+    - <a href="https://telegram.me/Noobmaster_432" target="_blank"> **Telegram** </a>
+    - <a href="https://discordapp.com/users/926492611794067516" target="_blank"> **Discord** </a>
 
 - ⚡ Fun fact **Yeah I could make you laugh sometimes :)**
 
