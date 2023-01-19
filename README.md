@@ -10,17 +10,15 @@
 - 💬 Ask me about **React, Node Js, Next Js**
 
 - 📫 How to reach me 
-    - **Linkedin : https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/**
-    - **Email : mrgyan432@gmail.com**
-    - **Telegram : @Noobmaster_432**
-    - **Discord : NoobMaster#6684**
+    - <a href="https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/"> **Linkedin** </a>
+    - <a href="mailto:mrgyan432@gmail.com"> **Email** </a>
+    - <a href="https://telegram.me/Noobmaster_432"> **Telegram** </a>
+    - <a href="https://discordapp.com/users/926492611794067516"> **Discord** </a>
 
 - ⚡ Fun fact **Yeah I could make you laugh sometimes :)**
 
 <!-- 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=noobmaster432&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&" alt="noobmaster432" /></p>
 
 ## Languages and Tools
 
@@ -38,5 +36,8 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=2d79c7">
-
 </p>  
+
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&" alt="noobmaster432" />
+</p>
