@@ -17,10 +17,8 @@
 
 - ⚡ Fun fact **Yeah I could make you laugh sometimes :)**
 
-<!-- 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=noobmaster432&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
 
-## Languages and Tools
+## Languages and Tools:
 
 <p align="left">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
@@ -35,10 +33,13 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=028dd1">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=264de4">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=2d79c7">
 </p>  
 
-<p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&" alt="noobmaster432" />
-</p>
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=noobmaster432&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&theme=dark&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noobmaster432&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
