@@ -5,9 +5,9 @@
 <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" height="300px" align="right" />
 <br>
 
-- 🌱 I’m currently learning more about **Next Js**
+- 🌱 I’m currently learning more about **Ruby on Rails**
 
-- 💬 Ask me about **React, Node Js, Next Js**
+- 💬 Ask me about **ReactJs, NodeJs, NextJs**
 
 - 📫 How to reach me 
     - <a href="https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/" target="_blank"> **Linkedin** </a>
