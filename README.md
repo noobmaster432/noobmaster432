@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanendra</h1>
-<h3 align="center">A passionate Full Stack developer and an open source contributer</h3>
+<h3 align="center">A Full Stack developer, Competitive Programmer and an open source contributer</h3>
 
 <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" height="300px" align="right" />
 <br/>
@@ -11,7 +11,7 @@
 - 💬 Ask me about _ReactJs, NodeJs, NextJs_
 
 - 📫 How to reach me 
-    - <a href="https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/" target="_blank"> **Linkedin** </a>
+    - <a href="https://www.linkedin.com/in/noobmaster432/" target="_blank"> **Linkedin** </a>
     - <a href="mailto:mrgyan432@gmail.com" target="_blank"> **Email** </a>
     - <a href="https://telegram.me/Noobmaster_432" target="_blank"> **Telegram** </a>
     - <a href="https://discordapp.com/users/926492611794067516" target="_blank"> **Discord** </a>
