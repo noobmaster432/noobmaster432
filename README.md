@@ -4,9 +4,9 @@
 <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" height="300px" align="right" />
 <br/>
 
-- 🌱 I’m currently learning _Ruby on Rails_
+- 🌱 I’m currently learning _Data Structures and Algorithms_
 
-- 👯 I’m looking to collaborate on MERN Stack Web Development Projects 
+- 👯 I’m looking to collaborate on Web Development Projects 
 
 - 💬 Ask me about _ReactJs, NodeJs, NextJs_
 
