@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanendra</h1>
-<h3 align="center">A Full Stack developer, Competitive Programmer and an open source contributer</h3>
+<h3 align="center">A Software Developer, Competitive Programmer and an open source contributer</h3>
 
 <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" height="300px" align="right" />
 <br/>
