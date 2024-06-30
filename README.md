@@ -60,12 +60,12 @@ Hi, I'm Gyanendra Tiwari (`@noobmaster432`), a Software Engineer with a knack fo
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=noobmaster432&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="github_stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobmaster432&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top_languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=noobmaster432&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="github_stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobmaster432&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="top_languages" /> |
 | ------------- | ------------- |
 
 <div>
-<img align="left" src="https://github.githubassets.com/assets/footer-copilot-54114bfd1d20.png" alt="copilot" width="20%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&theme=dark&hide_border=false" alt="streak" />
-<img align="right" src="https://github.githubassets.com/assets/footer-mona-d1c861cd8018.png" alt="Mona" width="20%" />
+<img align="left" src="https://github.githubassets.com/assets/footer-copilot-54114bfd1d20.png" alt="copilot" width="18%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&theme=dark&hide_border=true&background=gradient" alt="streak" />
+<img align="right" src="https://github.githubassets.com/assets/footer-mona-d1c861cd8018.png" alt="Mona" width="18%" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d22f4&height=120&section=footer"/>
