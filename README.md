@@ -64,7 +64,7 @@ Hi, I'm Gyanendra Tiwari (`@noobmaster432`), a Software Engineer with a knack fo
 | ------------- | ------------- |
 
 <div>
-<img align="left" src="https://github.githubassets.com/assets/footer-copilot-54114bfd1d20.png" alt="copilot" width="17%" />
+<img align="left" src="https://github.githubassets.com/assets/footer-copilot-54114bfd1d20.png" alt="copilot" width="17.5%" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobmaster432&theme=dark&hide_border=true&background=gradient" alt="streak" />
 <img align="right" src="https://github.githubassets.com/assets/footer-mona-d1c861cd8018.png" alt="Mona" width="17%" />
 </div>
