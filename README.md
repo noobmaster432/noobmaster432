@@ -2,7 +2,7 @@
 
 # 🧑🏻‍💻 Hi, I'm Gyanendra! Great to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 <img align="right" src="https://github.com/noobmaster432/noobmaster432/assets/103204431/455f94b9-4d75-4e0d-80c8-988709f6aae6" alt="copilot" width="15%" />
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=DEVELOPER...;Software Debugger...;AI Engineer...;Melophile..."></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=DEVELOPER...;DEBUGGER...;ENGINEER...;MELOPHILE..."></a>
 
 Software Engineer @ [Highspot](https://www.highspot.com) — building AI-powered product features and the distributed backend systems underneath them.
 
